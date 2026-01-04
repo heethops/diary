@@ -1,0 +1,7 @@
+{
+  "name": "Minimalist Diary & Todo",
+  "description": "A clean, white-themed diary application with calendar integration, searchable todos with D-day tracking, and multimedia diary entries (YouTube/Images) with auto-save and undo/redo capabilities.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
